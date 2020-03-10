@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/koenoe/cocoen#readme",
   "dependencies": {
-    "jquery": "~2.1.4",
+    "jquery": "~3.4.1",
     "requestAnimationFrame": "~0.0.23"
   },
   "devDependencies": {
