@@ -5,6 +5,10 @@ include_once('header.php');
 
 
 </section>
+
+<!-- Custom js -->
+<script src="../js/dashboard.js"></script>
+
 <?php
 include_once('footer.php');
 ?>

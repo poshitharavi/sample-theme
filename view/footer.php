@@ -52,11 +52,6 @@
 <!-- Custom Js -->
 <script src="../template/js/admin.js"></script>
 
-<!-- Google Analytics Code -->
-<script src="../template/js/google-analytics.js"></script>
-
-<!-- Demo Purpose Only -->
-<script src="../template/js/demo.js"></script>
 </body>
 
 </html>
